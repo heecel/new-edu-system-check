@@ -21,43 +21,314 @@
       "password": "student123",
       "fullName": "Петрова Анна Сергеевна",
       "groupId": 1
+    },
+    {
+      "id": "3",
+      "login": "student3",
+      "password": "student123",
+      "fullName": "Сидоров Иван Петрович",
+      "groupId": 1
+    },
+    {
+      "id": "4",
+      "login": "student4",
+      "password": "student123",
+      "fullName": "Козлова Екатерина Дмитриевна",
+      "groupId": 1
+    },
+    {
+      "id": "5",
+      "login": "student5",
+      "password": "student123",
+      "fullName": "Морозов Алексей Сергеевич",
+      "groupId": 1
+    },
+    {
+      "id": "6",
+      "login": "student6",
+      "password": "student123",
+      "fullName": "Новикова Ольга Владимировна",
+      "groupId": 1
+    },
+    {
+      "id": "7",
+      "login": "student7",
+      "password": "student123",
+      "fullName": "Петров Павел Александрович",
+      "groupId": 1
+    },
+    {
+      "id": "8",
+      "login": "student8",
+      "password": "student123",
+      "fullName": "Михайлова Наталья Игоревна",
+      "groupId": 1
+    },
+    {
+      "id": "9",
+      "login": "student9",
+      "password": "student123",
+      "fullName": "Федоров Дмитрий Викторович",
+      "groupId": 1
+    },
+    {
+      "id": "10",
+      "login": "student10",
+      "password": "student123",
+      "fullName": "Соколова Алина Михайловна",
+      "groupId": 1
+    },
+    {
+      "id": "11",
+      "login": "student11",
+      "password": "student123",
+      "fullName": "Алексеев Константин Андреевич",
+      "groupId": 1
+    },
+    {
+      "id": "12",
+      "login": "student12",
+      "password": "student123",
+      "fullName": "Егорова Евгения Сергеевна",
+      "groupId": 1
+    },
+    {
+      "id": "13",
+      "login": "student13",
+      "password": "student123",
+      "fullName": "Волков Никита Олегович",
+      "groupId": 1
+    },
+    {
+      "id": "14",
+      "login": "student14",
+      "password": "student123",
+      "fullName": "Зайцева Анастасия Павловна",
+      "groupId": 1
+    },
+    {
+      "id": "15",
+      "login": "student15",
+      "password": "student123",
+      "fullName": "Комаров Илья Денисович",
+      "groupId": 1
+    },
+    {
+      "id": "16",
+      "login": "student16",
+      "password": "student123",
+      "fullName": "Орлова Мария Андреевна",
+      "groupId": 1
+    },
+    {
+      "id": "17",
+      "login": "student17",
+      "password": "student123",
+      "fullName": "Тихонов Роман Евгеньевич",
+      "groupId": 1
+    },
+    {
+      "id": "18",
+      "login": "student18",
+      "password": "student123",
+      "fullName": "Белова Дарья Алексеевна",
+      "groupId": 1
+    },
+    {
+      "id": "19",
+      "login": "student19",
+      "password": "student123",
+      "fullName": "Савельев Арсений Игоревич",
+      "groupId": 1
+    },
+    {
+      "id": "20",
+      "login": "student20",
+      "password": "student123",
+      "fullName": "Тимофеева Виктория Романовна",
+      "groupId": 1
+    },
+    {
+      "id": "21",
+      "login": "student21",
+      "password": "student123",
+      "fullName": "Григорьев Максим Дмитриевич",
+      "groupId": 2
+    },
+    {
+      "id": "22",
+      "login": "student22",
+      "password": "student123",
+      "fullName": "Иванова София Александровна",
+      "groupId": 2
+    },
+    {
+      "id": "23",
+      "login": "student23",
+      "password": "student123",
+      "fullName": "Крылов Егор Станиславович",
+      "groupId": 2
+    },
+    {
+      "id": "24",
+      "login": "student24",
+      "password": "student123",
+      "fullName": "Макарова Полина Денисовна",
+      "groupId": 2
+    },
+    {
+      "id": "25",
+      "login": "student25",
+      "password": "student123",
+      "fullName": "Попов Артём Ильич",
+      "groupId": 2
+    },
+    {
+      "id": "26",
+      "login": "student26",
+      "password": "student123",
+      "fullName": "Павлова Елизавета Сергеевна",
+      "groupId": 2
+    },
+    {
+      "id": "27",
+      "login": "student27",
+      "password": "student123",
+      "fullName": "Баранов Андрей Александрович",
+      "groupId": 2
+    },
+    {
+      "id": "28",
+      "login": "student28",
+      "password": "student123",
+      "fullName": "Давыдова Ксения Вячеславовна",
+      "groupId": 2
+    },
+    {
+      "id": "29",
+      "login": "student29",
+      "password": "student123",
+      "fullName": "Семёнов Николай Петрович",
+      "groupId": 2
+    },
+    {
+      "id": "30",
+      "login": "student30",
+      "password": "student123",
+      "fullName": "Виноградова Татьяна Михайловна",
+      "groupId": 2
+    },
+    {
+      "id": "31",
+      "login": "student31",
+      "password": "student123",
+      "fullName": "Горбачёв Виктор Юрьевич",
+      "groupId": 2
+    },
+    {
+      "id": "32",
+      "login": "student32",
+      "password": "student123",
+      "fullName": "Никифорова Ирина Викторовна",
+      "groupId": 2
+    },
+    {
+      "id": "33",
+      "login": "student33",
+      "password": "student123",
+      "fullName": "Фокин Георгий Алексеевич",
+      "groupId": 2
+    },
+    {
+      "id": "34",
+      "login": "student34",
+      "password": "student123",
+      "fullName": "Ушакова Вероника Павловна",
+      "groupId": 2
+    },
+    {
+      "id": "35",
+      "login": "student35",
+      "password": "student123",
+      "fullName": "Емельянов Даниил Сергеевич",
+      "groupId": 2
     }
   ],
   "groups": [
     {
-      "id": 1,
+      "id": "1",
       "name": "ИС-21",
       "teacherId": 1
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ИС-22",
       "teacherId": 1
     }
   ],
   "disciplines": [
-    { "id": 1, "name": "Программирование на Python", "groupId": 1 },
-    { "id": 2, "name": "Информатика", "groupId": 1 },
-    { "id": 3, "name": "Базы данных", "groupId": 1 },
-    { "id": 4, "name": "Веб-разработка", "groupId": 1 },
-    { "id": 5, "name": "Алгоритмы и структуры данных", "groupId": 1 },
-    { "id": 6, "name": "Операционные системы", "groupId": 1 },
-    { "id": 7, "name": "Компьютерные сети", "groupId": 2 },
-    { "id": 8, "name": "Тестирование ПО", "groupId": 2 },
-    { "id": 9, "name": "Математический анализ", "groupId": 2 },
-    { "id": 10, "name": "Линейная алгебра", "groupId": 2 },
-    { "id": 11, "name": "Дискретная математика", "groupId": 2 },
-    { "id": 12, "name": "Теория вероятностей", "groupId": 2 }
-  ],
-  "attendance": [
     {
       "id": "1",
-      "studentId": 1,
-      "disciplineId": 1,
-      "date": "2026-06-02",
-      "status": "П",
-      "reason": ""
+      "name": "Программирование на Python",
+      "groupId": 1
+    },
+    {
+      "id": "2",
+      "name": "Информатика",
+      "groupId": 1
+    },
+    {
+      "id": "3",
+      "name": "Базы данных",
+      "groupId": 1
+    },
+    {
+      "id": "4",
+      "name": "Веб-разработка",
+      "groupId": 1
+    },
+    {
+      "id": "5",
+      "name": "Алгоритмы и структуры данных",
+      "groupId": 1
+    },
+    {
+      "id": "6",
+      "name": "Операционные системы",
+      "groupId": 1
+    },
+    {
+      "id": "7",
+      "name": "Компьютерные сети",
+      "groupId": 2
+    },
+    {
+      "id": "8",
+      "name": "Тестирование ПО",
+      "groupId": 2
+    },
+    {
+      "id": "9",
+      "name": "Математический анализ",
+      "groupId": 2
+    },
+    {
+      "id": "10",
+      "name": "Линейная алгебра",
+      "groupId": 2
+    },
+    {
+      "id": "11",
+      "name": "Дискретная математика",
+      "groupId": 2
+    },
+    {
+      "id": "12",
+      "name": "Теория вероятностей",
+      "groupId": 2
     }
   ],
-  "polls": []
+  "attendance": [],
+  "polls": [],
+  "$schema": "./node_modules/json-server/schema.json"
 }
